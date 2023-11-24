@@ -1,4 +1,7 @@
+
 <a href="https://fnbr.js.org"><img align="left" src="https://static.wikia.nocookie.net/logopedia/images/f/f9/Fortnite_Chapter_4_Season_1.svg/revision/latest/scale-to-width-down/250?cb=20221205102619" height=128 width=128 /></a>
+[![Discord Server](https://discord.com/api/guilds/522121965952303105/widget.png)](https://discord.gg/j5xZ54RJvR)
+[![NPM Version](https://img.shields.io/npm/v/fnbr.svg)](https://npmjs.com/package/fnbr)
 
 # Fortnite Simple Selfbot
 
